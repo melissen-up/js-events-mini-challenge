@@ -47,6 +47,10 @@ Once you have it working in the console, write an event listener that will use t
 **YOUR NOTES**
 ```
 
+- decided on what kind of event we're listening for --> 'click' on the header text
+- addEventListener to the 'header' variable that's been defined
+- utilize the provided 'toggleColor' function in the block.
+
 ```
 
 ## Deliverable 2: Like Button
